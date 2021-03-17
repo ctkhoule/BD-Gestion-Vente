@@ -13,3 +13,9 @@ Create Table Utilisateur (
     nom_utilisateur varchar(25)
 );
 
+-- Table Produit 
+Create Table Produit (
+    id_produit varchar(15) primary key,
+    titre_produit varchar(15),
+    description_produit varchar(100)
+);
