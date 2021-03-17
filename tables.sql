@@ -7,4 +7,9 @@ Create Table Entreprise (
     url_entreprise text
 );
 
+-- Table Utilisateur
+Create Table Utilisateur (
+    id_utilisateur varchar(15) primary key,
+    nom_utilisateur varchar(25)
+);
 
