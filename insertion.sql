@@ -27,3 +27,17 @@ values
 ('user127', 'Nom utilisateur'),
 ('user128', 'Nom utilisateur'),
 ('user129', 'Nom utilisateur');
+
+-- Table Produit
+INSERT INTO PRODUIT (id_produit, titre_produit, description_produit)
+values
+('pro120', 'Titre produit', 'Description produit'),
+('pro121', 'Titre produit', 'Description produit'),
+('pro122', 'Titre produit', 'Description produit'),
+('pro123', 'Titre produit', 'Description produit'),
+('pro124', 'Titre produit', 'Description produit'),
+('pro125', 'Titre produit', 'Description produit'),
+('pro126', 'Titre produit', 'Description produit'),
+('pro127', 'Titre produit', 'Description produit'),
+('pro128', 'Titre produit', 'Description produit'),
+('pro129', 'Titre produit', 'Description produit');
